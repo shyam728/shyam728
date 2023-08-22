@@ -1,4 +1,5 @@
-Black Technology LinkedIn Banner (found at https://github.com/shyam728/shyam728/assets/116745835/31a1e451-900b-431c-8d25-382c818c6935)
+https://github.com/shyam728/shyam728/assets/116745835/cd1ce19b-87bf-48ea-ad01-91ccdc7e30e4
+
 
 
 ### Hi 👋 I'm AJAY AGRAWAL
