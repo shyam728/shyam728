@@ -1,4 +1,5 @@
-https://github.com/shyam728/shyam728/assets/116745835/cd1ce19b-87bf-48ea-ad01-91ccdc7e30e4
+
+![Black Technology LinkedIn Banner](https://github.com/shyam728/shyam728/assets/116745835/734dddcf-8c4b-4d5a-b475-c0527362fb5c)
 
 
 
