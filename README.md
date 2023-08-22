@@ -3,10 +3,7 @@ Black Technology LinkedIn Banner (found at https://github.com/shyam728/shyam728/
 
 ### Hi 👋 I'm AJAY AGRAWAL
 
-<!--
-**shyam728/shyam728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Frameworks,Full Stack Developer
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: officialajayagrawal@gmail.com
 
 
--->
+
